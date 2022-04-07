@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout<<"gitTest succeed!"<<'\n';
+    cout<<"gitTest succeed!2"<<'\n';
     return 0;
 }
